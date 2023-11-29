@@ -1,0 +1,230 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+}
+/* img{
+    max-width: 100%;
+} */
+.heading{
+    background-image: url(./images/01.jpg);
+    /* background-attachment: fixed; */
+    background-size: cover;
+    margin: 0px 0px 40px;
+    background-repeat: no-repeat;
+    height: 200px;
+    /* background-position: top; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+    margin: 0px 0px 10px;
+}
+.container h1{
+    font-size: 33px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    color: #fff;
+    margin: 0px 0px 5px;
+}
+
+.container h3{
+    font-size: 17px;
+    text-align: center;
+    color: #fff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.container-one{
+    width: 100%;
+    padding: 10px;
+}
+
+.contents{
+    background-color: beige;
+    margin: 30px 0px;
+    text-align: center;
+}
+
+.contents h3{
+    text-align: center;
+    margin: 10px;
+}
+
+.contents p{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.contents button{
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px 0px;
+    /* padding: 10px; */
+    width: 100px;
+    height: 35px;
+}
+
+.btn1{
+    background-color: green;
+    color: #fff;
+}
+.container-two{
+    width: 100%;
+    padding: 10px;
+}
+.contentd{
+    background-color: antiquewhite;
+    margin: 30px 0px;
+    text-align: center;
+}
+.contentd h3{
+    text-align: center;
+    margin: 10px;
+}
+.contentd p{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.contentd button {
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px 0px;
+    width: 100px;
+    height: 35px;
+}
+.btn2{
+    background-color: darkred;
+    color: #fff;
+}
+.btn5{
+    background-color: dodgerblue;
+    color: #fff;
+}
+.btn6{
+    background-color: #fff;
+    color: black;
+}
+.btn7{
+    background-color: white;
+    color: black;
+}
+.contaisir{
+    background-image: url(./images/07.jpg);
+    background-size: cover;
+    margin: 0px 0px 40px;
+    background-repeat: no-repeat;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contaisir h4{
+    font-size: 33px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    color: #fff;
+    margin: 0px 0px 5px;
+}
+.contaisir p{
+    text-align: center;
+    color: #fff;
+}
+.conflict{
+    width: 100%;
+    padding: 10px;
+}
+.confess{
+    background-color: beige;
+    margin: 30px 0px;
+    text-align: center;
+}
+.confess button{
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px 0px;
+    /* padding: 10px; */
+    width: 100px;
+    height: 35px;
+}
+.confess h3{
+    text-align: center;
+    margin: 10px;
+}
+.confess p{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.btn3{
+    background-color:white;
+    color: black;
+}
+.btn4{
+    background-color: white;
+    color: black;
+}
+.btn8{
+    background-color: black;
+    color: white;
+    border: solid white;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px 0px;
+    /* padding: 10px; */
+    width: 100px;
+    height: 35px;
+}
+.continue{
+    background-image: url(./images/13.jpg);
+    padding: 60px 5px 20px;
+}
+.return{
+    text-align: center;
+    margin-bottom: 30px;
+    color: #fff;
+    font-size: 20px;
+}
+.kids{
+    background-color: cadetblue;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+form input,form textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+footer {
+    text-align: center;
+    padding: 30px;
+}
+.satun{
+    text-align: center;
+    color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 0;
+
+}
+
+footer .top{
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+}
+
+
+
+
